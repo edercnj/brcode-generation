@@ -10,6 +10,7 @@ import javax.validation.constraints.*;
 public class BRCodeVO {
 
     private String pointofInitiationMethod;
+    private MerchantAccountInformationCartoesVO merchantAccountInformationCartoesVO;
     @NotNull
     private MerchantAccountInformationPixVO merchantAccountInformationPixVO;
     private MerchantAccountInformationOutroVO merchantAccountInformationOutroVO;
@@ -23,7 +24,7 @@ public class BRCodeVO {
     private String merchantCity;
     private String postalCode;
     @NotNull
-    private String aditionalDataFieldTemplate;
+    private AditionalDataFieldTemplateVO aditionalDataFieldTemplate;
     private UnreservedTemplatesVO unreservedTemplates;
     @NotNull
     private String crc16;
@@ -100,11 +101,11 @@ public class BRCodeVO {
         this.unreservedTemplates = unreservedTemplates;
     }
 
-    public String getAditionalDataFieldTemplate() {
+    public AditionalDataFieldTemplateVO getAditionalDataFieldTemplate() {
         return aditionalDataFieldTemplate;
     }
 
-    public void setAditionalDataFieldTemplate(String aditionalDataFieldTemplate) {
+    public void setAditionalDataFieldTemplate(AditionalDataFieldTemplateVO aditionalDataFieldTemplate) {
         this.aditionalDataFieldTemplate = aditionalDataFieldTemplate;
     }
 
@@ -114,5 +115,13 @@ public class BRCodeVO {
 
     public void setCrc16(String crc16) {
         this.crc16 = crc16;
+    }
+
+    public MerchantAccountInformationCartoesVO getMerchantAccountInformationCartoesVO() {
+        return merchantAccountInformationCartoesVO;
+    }
+
+    public void setMerchantAccountInformationCartoesVO(MerchantAccountInformationCartoesVO merchantAccountInformationCartoesVO) {
+        this.merchantAccountInformationCartoesVO = merchantAccountInformationCartoesVO;
     }
 }

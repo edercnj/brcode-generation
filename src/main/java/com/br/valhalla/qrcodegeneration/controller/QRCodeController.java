@@ -1,6 +1,5 @@
 package com.br.valhalla.qrcodegeneration.controller;
 
-import com.br.valhalla.qrcodegeneration.data.Entity.BRCode;
 import com.br.valhalla.qrcodegeneration.data.vo.BRCodeVO;
 import com.br.valhalla.qrcodegeneration.service.QRCodeService;
 import org.springframework.beans.factory.annotation.Autowired;

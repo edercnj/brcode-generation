@@ -1,8 +1,8 @@
 package com.br.valhalla.qrcodegeneration.service;
 
-import com.br.valhalla.qrcodegeneration.data.Entity.AditionalDataFieldTemplate;
-import com.br.valhalla.qrcodegeneration.data.Entity.BRCode;
-import com.br.valhalla.qrcodegeneration.data.Entity.MerchantAccountInformationPix;
+import com.br.valhalla.qrcodegeneration.data.entity.AditionalDataFieldTemplate;
+import com.br.valhalla.qrcodegeneration.data.entity.BRCode;
+import com.br.valhalla.qrcodegeneration.data.entity.MerchantAccountInformationPix;
 import com.br.valhalla.qrcodegeneration.data.vo.BRCodeVO;
 import com.google.zxing.BarcodeFormat;
 import com.google.zxing.client.j2se.MatrixToImageWriter;
@@ -11,7 +11,6 @@ import com.google.zxing.qrcode.QRCodeWriter;
 import org.springframework.stereotype.Service;
 
 import java.awt.image.BufferedImage;
-import java.io.Console;
 
 @Service
 public class QRCodeService {
@@ -29,7 +28,9 @@ public class QRCodeService {
         MerchantAccountInformationPix merchantAccountInformationPix = new MerchantAccountInformationPix(brCodevo.getMerchantAccountInformationPixVO().getGloballyUniqueIdentifier().getValue(),
                 brCodevo.getMerchantAccountInformationPixVO().getChavePix().getValue());
 
-        AditionalDataFieldTemplate aditionalDataFieldTemplate = new AditionalDataFieldTemplate(brCodevo.getAditionalDataFieldTemplate());
+        AditionalDataFieldTemplate aditionalDataFieldTemplate = new AditionalDataFieldTemplate(brCodevo.getAditionalDataFieldTemplate().getReferenceLabel(),
+                brCodevo.getAditionalDataFieldTemplate().getGloballyUniqueIdentifier(),
+                brCodevo.getAditionalDataFieldTemplate().getVersaoBRCode());
 
         BRCode brCode = new BRCode(merchantAccountInformationPix,
                 brCodevo.getMerchantCategoryCode(),
