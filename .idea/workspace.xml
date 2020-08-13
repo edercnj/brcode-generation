@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="30d62b97-5763-4caa-936a-5a8d990fda6a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gradle/6.4.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/application-test.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/controller/QRCodeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/Entity/AditionalDataFieldTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/Entity/BRCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/Entity/CRC16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/Entity/CountryCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/Entity/DataObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/Entity/MerchantAccountInformationOutro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/Entity/MerchantAccountInformationPix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/Entity/MerchantCategoryCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/Entity/MerchantCity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/Entity/MerchantName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/Entity/PayloadFormatIndicator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/Entity/PointofInitiationMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/Entity/PostalCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/Entity/TransactionAmount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/Entity/TransactionCurrency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/Entity/UnreservedTemplates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/vo/AditionalDataFieldTemplateVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/vo/BRCodeVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/vo/DataObjectVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/vo/MerchantAccountInformationOutroVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/vo/MerchantAccountInformationPixVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/vo/UnreservedTemplatesVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/service/QRCodeService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="minikube" />
+    <option name="namespace" value="default" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fyZCQ7FJQZK8hE4YBpAh1w1TRP" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/config" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.br.valhalla.qrcodegeneration.data.Entity" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.br.valhalla.qrcodegeneration.data.vo" />
+      <recent name="com.br.valhalla.qrcodegeneration.data.Entity" />
+      <recent name="com.br.valhalla.qrcodegeneration.data" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/config" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QrCodeGenerationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="qr-code-generation.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.br.valhalla.qrcodegeneration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.br.valhalla.qrcodegeneration.QrCodeGenerationApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.QrCodeGenerationApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30d62b97-5763-4caa-936a-5a8d990fda6a" name="Default Changelist" comment="" />
+      <created>1597192165039</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597192165039</updated>
+      <workItem from="1597192166393" duration="2243000" />
+      <workItem from="1597229693642" duration="351000" />
+      <workItem from="1597230062216" duration="24153000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1088" y="200" width="569" height="626" key="#com.intellij.ide.util.MemberChooser" timestamp="1597277462605">
+      <screen x="0" y="28" width="2560" height="966" />
+    </state>
+    <state x="1088" y="200" width="569" height="626" key="#com.intellij.ide.util.MemberChooser/0.28.2560.966@0.28.2560.966" timestamp="1597277462605" />
+    <state x="1652" y="291" width="524" height="446" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1597261694614">
+      <screen x="0" y="28" width="2560" height="966" />
+    </state>
+    <state x="1652" y="291" width="524" height="446" key="#com.intellij.ide.util.PackageChooserDialog/0.28.2560.966@0.28.2560.966" timestamp="1597261694614" />
+    <state x="1647" y="377" width="577" height="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1597261696332">
+      <screen x="0" y="28" width="2560" height="966" />
+    </state>
+    <state x="1647" y="377" width="577" height="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.28.2560.966@0.28.2560.966" timestamp="1597261696332" />
+    <state x="1424" y="28" width="982" height="966" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1597264540664">
+      <screen x="0" y="28" width="2560" height="966" />
+    </state>
+    <state x="1424" y="28" width="982" height="966" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.28.2560.966@0.28.2560.966" timestamp="1597264540664" />
+    <state width="595" height="441" key="DebuggerActiveHint" timestamp="1597274392295">
+      <screen x="0" y="28" width="2560" height="966" />
+    </state>
+    <state width="595" height="441" key="DebuggerActiveHint/0.28.2560.966@0.28.2560.966" timestamp="1597274392295" />
+    <state width="1234" height="245" key="GridCell.Tab.0.bottom" timestamp="1597275768657">
+      <screen x="0" y="28" width="2560" height="966" />
+    </state>
+    <state width="1234" height="245" key="GridCell.Tab.0.bottom/0.28.2560.966@0.28.2560.966" timestamp="1597275768657" />
+    <state width="1234" height="245" key="GridCell.Tab.0.center" timestamp="1597275768656">
+      <screen x="0" y="28" width="2560" height="966" />
+    </state>
+    <state width="1234" height="245" key="GridCell.Tab.0.center/0.28.2560.966@0.28.2560.966" timestamp="1597275768656" />
+    <state width="1234" height="245" key="GridCell.Tab.0.left" timestamp="1597275768656">
+      <screen x="0" y="28" width="2560" height="966" />
+    </state>
+    <state width="1234" height="245" key="GridCell.Tab.0.left/0.28.2560.966@0.28.2560.966" timestamp="1597275768656" />
+    <state width="1234" height="245" key="GridCell.Tab.0.right" timestamp="1597275768657">
+      <screen x="0" y="28" width="2560" height="966" />
+    </state>
+    <state width="1234" height="245" key="GridCell.Tab.0.right/0.28.2560.966@0.28.2560.966" timestamp="1597275768657" />
+    <state width="1234" height="245" key="GridCell.Tab.1.bottom" timestamp="1597275768658">
+      <screen x="0" y="28" width="2560" height="966" />
+    </state>
+    <state width="1234" height="245" key="GridCell.Tab.1.bottom/0.28.2560.966@0.28.2560.966" timestamp="1597275768658" />
+    <state width="1234" height="245" key="GridCell.Tab.1.center" timestamp="1597275768658">
+      <screen x="0" y="28" width="2560" height="966" />
+    </state>
+    <state width="1234" height="245" key="GridCell.Tab.1.center/0.28.2560.966@0.28.2560.966" timestamp="1597275768658" />
+    <state width="1234" height="245" key="GridCell.Tab.1.left" timestamp="1597275768657">
+      <screen x="0" y="28" width="2560" height="966" />
+    </state>
+    <state width="1234" height="245" key="GridCell.Tab.1.left/0.28.2560.966@0.28.2560.966" timestamp="1597275768657" />
+    <state width="1234" height="245" key="GridCell.Tab.1.right" timestamp="1597275768658">
+      <screen x="0" y="28" width="2560" height="966" />
+    </state>
+    <state width="1234" height="245" key="GridCell.Tab.1.right/0.28.2560.966@0.28.2560.966" timestamp="1597275768658" />
+    <state width="1234" height="304" key="GridCell.Tab.2.bottom" timestamp="1597275206692">
+      <screen x="0" y="28" width="2560" height="966" />
+    </state>
+    <state width="1234" height="304" key="GridCell.Tab.2.bottom/0.28.2560.966@0.28.2560.966" timestamp="1597275206692" />
+    <state width="1234" height="304" key="GridCell.Tab.2.center" timestamp="1597275206691">
+      <screen x="0" y="28" width="2560" height="966" />
+    </state>
+    <state width="1234" height="304" key="GridCell.Tab.2.center/0.28.2560.966@0.28.2560.966" timestamp="1597275206691" />
+    <state width="1234" height="304" key="GridCell.Tab.2.left" timestamp="1597275206691">
+      <screen x="0" y="28" width="2560" height="966" />
+    </state>
+    <state width="1234" height="304" key="GridCell.Tab.2.left/0.28.2560.966@0.28.2560.966" timestamp="1597275206691" />
+    <state width="1234" height="304" key="GridCell.Tab.2.right" timestamp="1597275206692">
+      <screen x="0" y="28" width="2560" height="966" />
+    </state>
+    <state width="1234" height="304" key="GridCell.Tab.2.right/0.28.2560.966@0.28.2560.966" timestamp="1597275206692" />
+    <state x="1592" y="406" width="646" height="212" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1597262476219">
+      <screen x="0" y="28" width="2560" height="966" />
+    </state>
+    <state x="1592" y="406" width="646" height="212" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.28.2560.966@0.28.2560.966" timestamp="1597262476219" />
+    <state x="1530" y="124" width="770" height="775" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1597275052505">
+      <screen x="0" y="28" width="2560" height="966" />
+    </state>
+    <state x="1530" y="124" width="770" height="775" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.28.2560.966@0.28.2560.966" timestamp="1597275052505" />
+    <state x="-606" y="109" width="835" height="922" key="dock-window-1" timestamp="1597262349249">
+      <screen x="0" y="28" width="2560" height="966" />
+    </state>
+    <state x="-606" y="109" width="835" height="922" key="dock-window-1/0.28.2560.966@0.28.2560.966" timestamp="1597262349249" />
+    <state x="-511" y="175" width="835" height="922" key="dock-window-2" timestamp="1597264158780">
+      <screen x="0" y="28" width="2560" height="966" />
+    </state>
+    <state x="-511" y="175" width="835" height="922" key="dock-window-2/0.28.2560.966@0.28.2560.966" timestamp="1597264158780" />
+    <state x="-760" y="72" width="835" height="922" key="dock-window-3" timestamp="1597278041454">
+      <screen x="0" y="28" width="2560" height="966" />
+    </state>
+    <state x="-760" y="72" width="835" height="922" key="dock-window-3/0.28.2560.966@0.28.2560.966" timestamp="1597278041454" />
+    <state x="1584" y="232" key="run.anything.popup" timestamp="1597261007546">
+      <screen x="0" y="28" width="2560" height="966" />
+    </state>
+    <state x="1584" y="232" key="run.anything.popup/0.28.2560.966@0.28.2560.966" timestamp="1597261007546" />
+    <state x="1539" y="238" width="760" height="678" key="search.everywhere.popup" timestamp="1597276127191">
+      <screen x="0" y="28" width="2560" height="966" />
+    </state>
+    <state x="1539" y="238" width="760" height="678" key="search.everywhere.popup/0.28.2560.966@0.28.2560.966" timestamp="1597276127191" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/controller/QRCodeController.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/service/QRCodeService.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/Entity/BRCode.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/Entity/BRCode.java</url>
+          <line>98</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/service/QRCodeService.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/Entity/AditionalDataFieldTemplate.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
