@@ -27,9 +27,9 @@ dependencies {
 	// https://mvnrepository.com/artifact/com.google.zxing/javase
 	compile group: 'com.google.zxing', name: 'javase', version: '3.4.0'
 	implementation 'org.springframework.boot:spring-boot-starter-web'
-	implementation 'org.springframework.boot:spring-boot-starter-web'
 	// https://mvnrepository.com/artifact/javax.validation/validation-api
 	compile group: 'javax.validation', name: 'validation-api', version: '1.0.0.GA'
+	compile('org.springframework.boot:spring-boot-starter-aop')
 
 	compileOnly 'org.projectlombok:lombok'
 	developmentOnly 'org.springframework.boot:spring-boot-devtools'

@@ -5,16 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30d62b97-5763-4caa-936a-5a8d990fda6a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/entity/ChavePix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/entity/GloballyUniqueIdentifierOutro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/entity/GloballyUniqueIdentifierPix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/entity/Identificador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/entity/MerchantAccountInformationCartoes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/entity/PaymentSystemSpecificTemplate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/entity/ReferenceLabel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/entity/VersaoBRCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/vo/MerchantAccountInformationCartoesVO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.4.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.4.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.4.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.4.1/fileHashes/fileHashes.bin" afterDir="false" />
@@ -23,33 +13,16 @@
       <change beforePath="$PROJECT_DIR$/.gradle/6.4.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.4.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.4.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.4.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/controller/QRCodeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/controller/QRCodeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/Entity/AditionalDataFieldTemplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/entity/AditionalDataFieldTemplate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/Entity/BRCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/entity/BRCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/Entity/CRC16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/entity/CRC16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/Entity/CountryCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/entity/CountryCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/Entity/DataObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/entity/DataObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/Entity/MerchantAccountInformationOutro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/entity/MerchantAccountInformationOutro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/Entity/MerchantAccountInformationPix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/entity/MerchantAccountInformationPix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/Entity/MerchantCategoryCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/entity/MerchantCategoryCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/Entity/MerchantCity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/entity/MerchantCity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/Entity/MerchantName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/entity/MerchantName.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/Entity/PayloadFormatIndicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/entity/PayloadFormatIndicator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/Entity/PointofInitiationMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/entity/PointofInitiationMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/Entity/PostalCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/entity/PostalCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/Entity/TransactionAmount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/entity/TransactionAmount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/Entity/TransactionCurrency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/entity/TransactionCurrency.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/Entity/UnreservedTemplates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/entity/UnreservedTemplates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/vo/AditionalDataFieldTemplateVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/vo/AditionalDataFieldTemplateVO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/vo/BRCodeVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/vo/BRCodeVO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/vo/MerchantAccountInformationOutroVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/vo/MerchantAccountInformationOutroVO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/vo/MerchantAccountInformationPixVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/vo/MerchantAccountInformationPixVO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/vo/UnreservedTemplatesVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/vo/UnreservedTemplatesVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/application-test.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/vo/MerchantAccountInformationCartoesVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/vo/MerchantAccountInformationCartoesVO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/service/QRCodeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/service/QRCodeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +62,6 @@
   </component>
   <component name="ProjectViewState">
     <option name="flattenModules" value="true" />
-    <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
@@ -109,7 +81,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
     <property name="show.unlinked.gradle.project.popup" value="true" />
@@ -125,6 +97,9 @@
       <recent name="com.br.valhalla.qrcodegeneration.data" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/log" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration" />
       <recent name="$PROJECT_DIR$/config" />
     </key>
   </component>
@@ -171,7 +146,7 @@
       <workItem from="1597229693642" duration="351000" />
       <workItem from="1597230062216" duration="24153000" />
       <workItem from="1597279367807" duration="251000" />
-      <workItem from="1597279659975" duration="7513000" />
+      <workItem from="1597279659975" duration="12130000" />
     </task>
     <servers />
   </component>
@@ -204,45 +179,45 @@
       <screen x="0" y="28" width="2560" height="966" />
     </state>
     <state width="595" height="441" key="DebuggerActiveHint/0.28.2560.966@0.28.2560.966" timestamp="1597274392295" />
-    <state width="1398" height="387" key="GridCell.Tab.0.bottom" timestamp="1597286758622">
+    <state width="1398" height="387" key="GridCell.Tab.0.bottom" timestamp="1597292303550">
       <screen x="0" y="23" width="1440" height="793" />
     </state>
-    <state width="1398" height="387" key="GridCell.Tab.0.bottom/0.23.1440.793@0.23.1440.793" timestamp="1597286758622" />
+    <state width="1398" height="387" key="GridCell.Tab.0.bottom/0.23.1440.793@0.23.1440.793" timestamp="1597292303550" />
     <state width="1234" height="245" key="GridCell.Tab.0.bottom/0.28.2560.966@0.28.2560.966" timestamp="1597275768657" />
-    <state width="1398" height="387" key="GridCell.Tab.0.center" timestamp="1597286758620">
+    <state width="1398" height="387" key="GridCell.Tab.0.center" timestamp="1597292303549">
       <screen x="0" y="23" width="1440" height="793" />
     </state>
-    <state width="1398" height="387" key="GridCell.Tab.0.center/0.23.1440.793@0.23.1440.793" timestamp="1597286758620" />
+    <state width="1398" height="387" key="GridCell.Tab.0.center/0.23.1440.793@0.23.1440.793" timestamp="1597292303549" />
     <state width="1234" height="245" key="GridCell.Tab.0.center/0.28.2560.966@0.28.2560.966" timestamp="1597275768656" />
-    <state width="1398" height="387" key="GridCell.Tab.0.left" timestamp="1597286758619">
+    <state width="1398" height="387" key="GridCell.Tab.0.left" timestamp="1597292303549">
       <screen x="0" y="23" width="1440" height="793" />
     </state>
-    <state width="1398" height="387" key="GridCell.Tab.0.left/0.23.1440.793@0.23.1440.793" timestamp="1597286758619" />
+    <state width="1398" height="387" key="GridCell.Tab.0.left/0.23.1440.793@0.23.1440.793" timestamp="1597292303549" />
     <state width="1234" height="245" key="GridCell.Tab.0.left/0.28.2560.966@0.28.2560.966" timestamp="1597275768656" />
-    <state width="1398" height="387" key="GridCell.Tab.0.right" timestamp="1597286758621">
+    <state width="1398" height="387" key="GridCell.Tab.0.right" timestamp="1597292303550">
       <screen x="0" y="23" width="1440" height="793" />
     </state>
-    <state width="1398" height="387" key="GridCell.Tab.0.right/0.23.1440.793@0.23.1440.793" timestamp="1597286758621" />
+    <state width="1398" height="387" key="GridCell.Tab.0.right/0.23.1440.793@0.23.1440.793" timestamp="1597292303550" />
     <state width="1234" height="245" key="GridCell.Tab.0.right/0.28.2560.966@0.28.2560.966" timestamp="1597275768657" />
-    <state width="1398" height="387" key="GridCell.Tab.1.bottom" timestamp="1597286758623">
+    <state width="1398" height="387" key="GridCell.Tab.1.bottom" timestamp="1597292303552">
       <screen x="0" y="23" width="1440" height="793" />
     </state>
-    <state width="1398" height="387" key="GridCell.Tab.1.bottom/0.23.1440.793@0.23.1440.793" timestamp="1597286758623" />
+    <state width="1398" height="387" key="GridCell.Tab.1.bottom/0.23.1440.793@0.23.1440.793" timestamp="1597292303552" />
     <state width="1234" height="245" key="GridCell.Tab.1.bottom/0.28.2560.966@0.28.2560.966" timestamp="1597275768658" />
-    <state width="1398" height="387" key="GridCell.Tab.1.center" timestamp="1597286758623">
+    <state width="1398" height="387" key="GridCell.Tab.1.center" timestamp="1597292303551">
       <screen x="0" y="23" width="1440" height="793" />
     </state>
-    <state width="1398" height="387" key="GridCell.Tab.1.center/0.23.1440.793@0.23.1440.793" timestamp="1597286758623" />
+    <state width="1398" height="387" key="GridCell.Tab.1.center/0.23.1440.793@0.23.1440.793" timestamp="1597292303551" />
     <state width="1234" height="245" key="GridCell.Tab.1.center/0.28.2560.966@0.28.2560.966" timestamp="1597275768658" />
-    <state width="1398" height="387" key="GridCell.Tab.1.left" timestamp="1597286758622">
+    <state width="1398" height="387" key="GridCell.Tab.1.left" timestamp="1597292303551">
       <screen x="0" y="23" width="1440" height="793" />
     </state>
-    <state width="1398" height="387" key="GridCell.Tab.1.left/0.23.1440.793@0.23.1440.793" timestamp="1597286758622" />
+    <state width="1398" height="387" key="GridCell.Tab.1.left/0.23.1440.793@0.23.1440.793" timestamp="1597292303551" />
     <state width="1234" height="245" key="GridCell.Tab.1.left/0.28.2560.966@0.28.2560.966" timestamp="1597275768657" />
-    <state width="1398" height="387" key="GridCell.Tab.1.right" timestamp="1597286758623">
+    <state width="1398" height="387" key="GridCell.Tab.1.right" timestamp="1597292303551">
       <screen x="0" y="23" width="1440" height="793" />
     </state>
-    <state width="1398" height="387" key="GridCell.Tab.1.right/0.23.1440.793@0.23.1440.793" timestamp="1597286758623" />
+    <state width="1398" height="387" key="GridCell.Tab.1.right/0.23.1440.793@0.23.1440.793" timestamp="1597292303551" />
     <state width="1234" height="245" key="GridCell.Tab.1.right/0.28.2560.966@0.28.2560.966" timestamp="1597275768658" />
     <state width="1234" height="304" key="GridCell.Tab.2.bottom" timestamp="1597275206692">
       <screen x="0" y="28" width="2560" height="966" />
@@ -280,6 +255,10 @@
       <screen x="0" y="28" width="2560" height="966" />
     </state>
     <state x="-760" y="72" width="835" height="922" key="dock-window-3/0.28.2560.966@0.28.2560.966" timestamp="1597278041454" />
+    <state x="428" y="147" width="584" height="572" key="find.popup" timestamp="1597290526731">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state x="428" y="147" width="584" height="572" key="find.popup/0.23.1440.793@0.23.1440.793" timestamp="1597290526731" />
     <state x="1584" y="232" key="run.anything.popup" timestamp="1597261007546">
       <screen x="0" y="28" width="2560" height="966" />
     </state>
@@ -296,11 +275,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/controller/QRCodeController.java</url>
           <line>24</line>
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/service/QRCodeService.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/entity/BRCode.java</url>
