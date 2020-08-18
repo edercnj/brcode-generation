@@ -1,0 +1,23 @@
+server:
+  port: ${port:50000}
+  servlet:
+    contextPath: "/brcode"
+
+spring:
+  main:
+    banner-mode: "off"
+  application:
+    name: "brcode"
+
+logging:
+  group:
+    brcode: com.br.valhalla.brcodegeneration, com.br.valhalla.brcodegeneration.service, com.br.valhalla.brcodegeneration.controller
+  path: "logs"
+  pattern:
+    console: "# ${spring.application.name} | %d{dd-MM-yyyy HH:mm:ss.SSS} | %-5level |  %thread  | %logger{0} | %msg%n"
+    file: "# ${spring.application.name} | %d{dd-MM-yyyy HH:mm:ss.SSS} | %-5level |  %thread  | %logger{0} | %msg%n"
+  level:
+    root: info
+    brcode: info
+  file:
+    name: "${logging.path}/${spring.application.name}.log"

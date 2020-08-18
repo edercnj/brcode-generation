@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'com.br.valhalla.qr-code-generation' is invalid and this project uses 'com.br.valhalla.qrcodegeneration' instead.
+* The original package name 'com.br.valhalla.qr-code-generation' is invalid and this project uses 'com.br.valhalla.brcodegeneration' instead.
 
 # Getting Started
 
