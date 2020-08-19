@@ -5,76 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30d62b97-5763-4caa-936a-5a8d990fda6a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/config/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/brcodegeneration/log/annotation/LogException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/brcodegeneration/log/annotation/LogExecutionTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/brcodegeneration/log/annotation/LogMethodCall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/brcodegeneration/log/annotation/LogMethodReturn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/brcodegeneration/log/annotation/LogRestMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/brcodegeneration/log/annotation/LogSOAPMessages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/brcodegeneration/log/annotation/LogStartupApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/brcodegeneration/log/config/UrdConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/brcodegeneration/log/core/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/brcodegeneration/log/core/AspectLog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/brcodegeneration/log/core/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/brcodegeneration/log/core/SystemInformation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/brcodegeneration/log/enumeration/HttpMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/brcodegeneration/log/enumeration/LogLevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/brcodegeneration/log/enumeration/LogTimeType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/brcodegeneration/log/enumeration/LogType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/brcodegeneration/log/exception/DomainException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/brcodegeneration/log/exception/ManagedException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/brcodegeneration/log/exception/NoManagedException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application-local.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.4.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.4.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.4.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.4.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.4.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.4.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.4.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.4.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.4.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.4.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.4.1/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HELP.md" beforeDir="false" afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/QrCodeGenerationApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/brcodegeneration/QrCodeGeneration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/controller/QRCodeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/brcodegeneration/controller/QRCodeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/entity/AditionalDataFieldTemplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/brcodegeneration/data/entity/AditionalDataFieldTemplate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/entity/BRCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/brcodegeneration/data/entity/BRCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/entity/CRC16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/brcodegeneration/data/entity/CRC16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/entity/ChavePix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/brcodegeneration/data/entity/ChavePix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/entity/CountryCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/brcodegeneration/data/entity/CountryCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/entity/DataObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/brcodegeneration/data/entity/DataObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/entity/GloballyUniqueIdentifierOutro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/brcodegeneration/data/entity/GloballyUniqueIdentifierOutro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/entity/GloballyUniqueIdentifierPix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/brcodegeneration/data/entity/GloballyUniqueIdentifierPix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/entity/Identificador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/brcodegeneration/data/entity/Identificador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/entity/MerchantAccountInformationCartoes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/brcodegeneration/data/entity/MerchantAccountInformationCartoes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/entity/MerchantAccountInformationOutro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/brcodegeneration/data/entity/MerchantAccountInformationOutro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/entity/MerchantAccountInformationPix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/brcodegeneration/data/entity/MerchantAccountInformationPix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/entity/MerchantCategoryCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/brcodegeneration/data/entity/MerchantCategoryCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/entity/MerchantCity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/brcodegeneration/data/entity/MerchantCity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/entity/MerchantName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/brcodegeneration/data/entity/MerchantName.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/entity/PayloadFormatIndicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/brcodegeneration/data/entity/PayloadFormatIndicator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/entity/PaymentSystemSpecificTemplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/brcodegeneration/data/entity/PaymentSystemSpecificTemplate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/entity/PointofInitiationMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/brcodegeneration/data/entity/PointOfInitiationMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/entity/PostalCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/brcodegeneration/data/entity/PostalCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/entity/ReferenceLabel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/brcodegeneration/data/entity/ReferenceLabel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/entity/TransactionAmount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/brcodegeneration/data/entity/TransactionAmount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/entity/TransactionCurrency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/brcodegeneration/data/entity/TransactionCurrency.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/entity/UnreservedTemplates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/brcodegeneration/data/entity/UnreservedTemplates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/entity/VersaoBRCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/brcodegeneration/data/entity/VersaoBRCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/vo/AditionalDataFieldTemplateVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/brcodegeneration/data/vo/AditionalDataFieldTemplateVO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/vo/BRCodeVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/brcodegeneration/data/vo/BRCodeVO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/vo/DataObjectVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/brcodegeneration/data/vo/DataObjectVO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/vo/MerchantAccountInformationCartoesVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/brcodegeneration/data/vo/MerchantAccountInformationCartoesVO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/vo/MerchantAccountInformationOutroVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/brcodegeneration/data/vo/MerchantAccountInformationOutroVO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/vo/MerchantAccountInformationPixVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/brcodegeneration/data/vo/MerchantAccountInformationPixVO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/data/vo/UnreservedTemplatesVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/brcodegeneration/data/vo/UnreservedTemplatesVO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/valhalla/qrcodegeneration/service/QRCodeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/valhalla/brcodegeneration/service/QRCodeService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/br/valhalla/qrcodegeneration/QrCodeGenerationApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/br/valhalla/brcodegeneration/QrCodeGenerationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application-local.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application-local.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,17 +90,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="RUN LOCAL" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
       <extension name="coverage">
         <pattern>
@@ -227,7 +147,8 @@
       <workItem from="1597680158842" duration="4576000" />
       <workItem from="1597753322665" duration="399000" />
       <workItem from="1597753737213" duration="86000" />
-      <workItem from="1597753917211" duration="5331000" />
+      <workItem from="1597753917211" duration="6819000" />
+      <workItem from="1597774531204" duration="1986000" />
     </task>
     <servers />
   </component>
@@ -238,14 +159,14 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1515" y="155" width="800" height="714" key="#Plugins" timestamp="1597678614610">
+    <state x="1515" y="155" width="800" height="714" key="#Plugins" timestamp="1597775604247">
       <screen x="0" y="28" width="2560" height="966" />
     </state>
-    <state x="1515" y="155" width="800" height="714" key="#Plugins/0.28.2560.966@0.28.2560.966" timestamp="1597678614610" />
-    <state x="738" y="169" width="1084" height="736" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597760527393">
+    <state x="1515" y="155" width="800" height="714" key="#Plugins/0.28.2560.966@0.28.2560.966" timestamp="1597775604247" />
+    <state x="738" y="169" width="1084" height="814" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597760575278">
       <screen x="0" y="28" width="2560" height="966" />
     </state>
-    <state x="738" y="169" width="1084" height="736" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.28.2560.966@0.28.2560.966" timestamp="1597760527393" />
+    <state x="738" y="169" width="1084" height="814" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.28.2560.966@0.28.2560.966" timestamp="1597760575278" />
     <state x="1088" y="200" width="788" height="626" key="#com.intellij.ide.util.MemberChooser" timestamp="1597680957848">
       <screen x="0" y="28" width="2560" height="966" />
     </state>
@@ -272,62 +193,62 @@
       <screen x="0" y="28" width="2560" height="966" />
     </state>
     <state width="595" height="441" key="DebuggerActiveHint/0.28.2560.966@0.28.2560.966" timestamp="1597274392295" />
-    <state width="2514" height="542" key="GridCell.Tab.0.bottom" timestamp="1597759219764">
+    <state width="2514" height="304" key="GridCell.Tab.0.bottom" timestamp="1597774518279">
       <screen x="0" y="28" width="2560" height="966" />
     </state>
     <state width="1398" height="387" key="GridCell.Tab.0.bottom/0.23.1440.793@0.23.1440.793" timestamp="1597292303550" />
-    <state width="2514" height="542" key="GridCell.Tab.0.bottom/0.28.2560.966@0.28.2560.966" timestamp="1597759219764" />
-    <state width="2514" height="542" key="GridCell.Tab.0.center" timestamp="1597759219764">
+    <state width="2514" height="304" key="GridCell.Tab.0.bottom/0.28.2560.966@0.28.2560.966" timestamp="1597774518279" />
+    <state width="2514" height="304" key="GridCell.Tab.0.center" timestamp="1597774518278">
       <screen x="0" y="28" width="2560" height="966" />
     </state>
     <state width="1398" height="387" key="GridCell.Tab.0.center/0.23.1440.793@0.23.1440.793" timestamp="1597292303549" />
-    <state width="2514" height="542" key="GridCell.Tab.0.center/0.28.2560.966@0.28.2560.966" timestamp="1597759219764" />
-    <state width="2514" height="542" key="GridCell.Tab.0.left" timestamp="1597759219763">
+    <state width="2514" height="304" key="GridCell.Tab.0.center/0.28.2560.966@0.28.2560.966" timestamp="1597774518278" />
+    <state width="2514" height="304" key="GridCell.Tab.0.left" timestamp="1597774518278">
       <screen x="0" y="28" width="2560" height="966" />
     </state>
     <state width="1398" height="387" key="GridCell.Tab.0.left/0.23.1440.793@0.23.1440.793" timestamp="1597292303549" />
-    <state width="2514" height="542" key="GridCell.Tab.0.left/0.28.2560.966@0.28.2560.966" timestamp="1597759219763" />
-    <state width="2514" height="542" key="GridCell.Tab.0.right" timestamp="1597759219764">
+    <state width="2514" height="304" key="GridCell.Tab.0.left/0.28.2560.966@0.28.2560.966" timestamp="1597774518278" />
+    <state width="2514" height="304" key="GridCell.Tab.0.right" timestamp="1597774518279">
       <screen x="0" y="28" width="2560" height="966" />
     </state>
     <state width="1398" height="387" key="GridCell.Tab.0.right/0.23.1440.793@0.23.1440.793" timestamp="1597292303550" />
-    <state width="2514" height="542" key="GridCell.Tab.0.right/0.28.2560.966@0.28.2560.966" timestamp="1597759219764" />
-    <state width="2514" height="542" key="GridCell.Tab.1.bottom" timestamp="1597759219765">
+    <state width="2514" height="304" key="GridCell.Tab.0.right/0.28.2560.966@0.28.2560.966" timestamp="1597774518279" />
+    <state width="2514" height="304" key="GridCell.Tab.1.bottom" timestamp="1597774518279">
       <screen x="0" y="28" width="2560" height="966" />
     </state>
     <state width="1398" height="387" key="GridCell.Tab.1.bottom/0.23.1440.793@0.23.1440.793" timestamp="1597292303552" />
-    <state width="2514" height="542" key="GridCell.Tab.1.bottom/0.28.2560.966@0.28.2560.966" timestamp="1597759219765" />
-    <state width="2514" height="542" key="GridCell.Tab.1.center" timestamp="1597759219765">
+    <state width="2514" height="304" key="GridCell.Tab.1.bottom/0.28.2560.966@0.28.2560.966" timestamp="1597774518279" />
+    <state width="2514" height="304" key="GridCell.Tab.1.center" timestamp="1597774518279">
       <screen x="0" y="28" width="2560" height="966" />
     </state>
     <state width="1398" height="387" key="GridCell.Tab.1.center/0.23.1440.793@0.23.1440.793" timestamp="1597292303551" />
-    <state width="2514" height="542" key="GridCell.Tab.1.center/0.28.2560.966@0.28.2560.966" timestamp="1597759219765" />
-    <state width="2514" height="542" key="GridCell.Tab.1.left" timestamp="1597759219765">
+    <state width="2514" height="304" key="GridCell.Tab.1.center/0.28.2560.966@0.28.2560.966" timestamp="1597774518279" />
+    <state width="2514" height="304" key="GridCell.Tab.1.left" timestamp="1597774518279">
       <screen x="0" y="28" width="2560" height="966" />
     </state>
     <state width="1398" height="387" key="GridCell.Tab.1.left/0.23.1440.793@0.23.1440.793" timestamp="1597292303551" />
-    <state width="2514" height="542" key="GridCell.Tab.1.left/0.28.2560.966@0.28.2560.966" timestamp="1597759219765" />
-    <state width="2514" height="542" key="GridCell.Tab.1.right" timestamp="1597759219765">
+    <state width="2514" height="304" key="GridCell.Tab.1.left/0.28.2560.966@0.28.2560.966" timestamp="1597774518279" />
+    <state width="2514" height="304" key="GridCell.Tab.1.right" timestamp="1597774518279">
       <screen x="0" y="28" width="2560" height="966" />
     </state>
     <state width="1398" height="387" key="GridCell.Tab.1.right/0.23.1440.793@0.23.1440.793" timestamp="1597292303551" />
-    <state width="2514" height="542" key="GridCell.Tab.1.right/0.28.2560.966@0.28.2560.966" timestamp="1597759219765" />
-    <state width="2514" height="304" key="GridCell.Tab.2.bottom" timestamp="1597758818877">
+    <state width="2514" height="304" key="GridCell.Tab.1.right/0.28.2560.966@0.28.2560.966" timestamp="1597774518279" />
+    <state width="2514" height="304" key="GridCell.Tab.2.bottom" timestamp="1597774518280">
       <screen x="0" y="28" width="2560" height="966" />
     </state>
-    <state width="2514" height="304" key="GridCell.Tab.2.bottom/0.28.2560.966@0.28.2560.966" timestamp="1597758818877" />
-    <state width="2514" height="304" key="GridCell.Tab.2.center" timestamp="1597758818876">
+    <state width="2514" height="304" key="GridCell.Tab.2.bottom/0.28.2560.966@0.28.2560.966" timestamp="1597774518280" />
+    <state width="2514" height="304" key="GridCell.Tab.2.center" timestamp="1597774518280">
       <screen x="0" y="28" width="2560" height="966" />
     </state>
-    <state width="2514" height="304" key="GridCell.Tab.2.center/0.28.2560.966@0.28.2560.966" timestamp="1597758818876" />
-    <state width="2514" height="304" key="GridCell.Tab.2.left" timestamp="1597758818876">
+    <state width="2514" height="304" key="GridCell.Tab.2.center/0.28.2560.966@0.28.2560.966" timestamp="1597774518280" />
+    <state width="2514" height="304" key="GridCell.Tab.2.left" timestamp="1597774518279">
       <screen x="0" y="28" width="2560" height="966" />
     </state>
-    <state width="2514" height="304" key="GridCell.Tab.2.left/0.28.2560.966@0.28.2560.966" timestamp="1597758818876" />
-    <state width="2514" height="304" key="GridCell.Tab.2.right" timestamp="1597758818876">
+    <state width="2514" height="304" key="GridCell.Tab.2.left/0.28.2560.966@0.28.2560.966" timestamp="1597774518279" />
+    <state width="2514" height="304" key="GridCell.Tab.2.right" timestamp="1597774518280">
       <screen x="0" y="28" width="2560" height="966" />
     </state>
-    <state width="2514" height="304" key="GridCell.Tab.2.right/0.28.2560.966@0.28.2560.966" timestamp="1597758818876" />
+    <state width="2514" height="304" key="GridCell.Tab.2.right/0.28.2560.966@0.28.2560.966" timestamp="1597774518280" />
     <state x="983" y="238" width="1330" height="528" key="IDE.errors.dialog" timestamp="1597679665879">
       <screen x="0" y="28" width="2560" height="966" />
     </state>
